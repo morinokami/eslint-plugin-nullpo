@@ -1,0 +1,30 @@
+{
+	"name": "eslint-plugin-nullpo",
+	"description": "An ESLint plugin to detect ぬるぽ (nullpo) in your code",
+	"version": "0.0.1",
+	"type": "module",
+	"author": "Shinya Fujino <shf0811@gmail.com> (https://github.com/morinokami)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/morinokami/eslint-plugin-nullpo.git"
+	},
+	"packageManager": "pnpm@9.8.0",
+	"keywords": ["eslint"],
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.8.3",
+		"@types/node": "22.5.0",
+		"@typescript-eslint/rule-tester": "8.2.0",
+		"@typescript-eslint/utils": "8.2.0",
+		"knip": "5.27.4",
+		"typescript": "5.5.4"
+	},
+	"peerDependencies": {
+		"eslint": ">=9.0.0"
+	}
+}
