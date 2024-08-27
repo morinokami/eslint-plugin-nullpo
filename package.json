@@ -11,7 +11,8 @@
 	},
 	"packageManager": "pnpm@9.8.0",
 	"keywords": ["eslint", "eslintplugin", "eslint-plugin", "ぬるぽ"],
-	"main": "index.js",
+	"files": ["dist"],
+	"main": "dist/index.js",
 	"scripts": {
 		"test": "vitest",
 		"build": "tsc"
