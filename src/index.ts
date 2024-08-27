@@ -1,6 +1,6 @@
-import { rule as banNullpo } from "./rules/ban-nullpo";
+import { rule as banNullpo } from "./rules/ban-nullpo.js";
 
-export = {
+export default {
 	rules: {
 		"ban-nullpo": banNullpo,
 	},

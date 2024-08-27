@@ -5,7 +5,9 @@
 	"compilerOptions": {
 		"outDir": "./dist",
 		"declaration": true,
-    "declarationMap": true,
-    "sourceMap": true,
+		"declarationMap": true,
+		"sourceMap": true,
+		"module": "NodeNext",
+    "target": "ESNext"
 	}
 }
