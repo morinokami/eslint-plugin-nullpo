@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-nullpo",
-	"description": "An ESLint plugin to detect ぬるぽ (nullpo) in your code",
+	"description": "Smack ぬるぽ (nullpo) with a hammer",
 	"version": "0.0.1",
 	"type": "module",
 	"author": "Shinya Fujino <shf0811@gmail.com> (https://github.com/morinokami)",
@@ -19,6 +19,8 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.8.3",
+		"@changesets/changelog-github": "0.5.0",
+		"@changesets/cli": "2.27.7",
 		"@tsconfig/recommended": "1.0.7",
 		"@types/node": "22.5.0",
 		"@typescript-eslint/parser": "8.3.0",

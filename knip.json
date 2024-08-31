@@ -4,6 +4,7 @@
 	"project": ["src/**/*.ts"],
 	"ignoreDependencies": [
 		"@biomejs/biome",
+		"@changesets/cli",
 		"@typescript-eslint/parser",
 		"pkg-pr-new"
 	]
