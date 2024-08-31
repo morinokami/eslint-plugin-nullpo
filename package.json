@@ -12,12 +12,7 @@
 	"packageManager": "pnpm@9.8.0",
 	"keywords": ["eslint", "eslintplugin", "eslint-plugin", "ぬるぽ"],
 	"files": ["dist"],
-	"exports": {
-		"./package.json": "./package.json",
-		".": {
-			"import": "./dist/index.js"
-		}
-	},
+	"main": "dist/index.js",
 	"scripts": {
 		"test": "vitest",
 		"build": "tsc"
