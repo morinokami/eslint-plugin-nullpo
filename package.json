@@ -29,6 +29,7 @@
 		"@typescript-eslint/utils": "8.2.0",
 		"knip": "5.27.4",
 		"pkg-pr-new": "0.0.20",
+		"publint": "0.2.10",
 		"typescript": "5.5.4",
 		"vitest": "2.0.5"
 	},
