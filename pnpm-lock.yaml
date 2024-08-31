@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@typescript-eslint/utils':
-        specifier: 8.3.0
-        version: 8.3.0(eslint@9.9.1(jiti@1.21.6))(typescript@5.5.4)
       eslint:
         specifier: '>=9.0.0'
         version: 9.9.1(jiti@1.21.6)
@@ -37,6 +34,9 @@ importers:
         specifier: 8.3.0
         version: 8.3.0(eslint@9.9.1(jiti@1.21.6))(typescript@5.5.4)
       '@typescript-eslint/rule-tester':
+        specifier: 8.3.0
+        version: 8.3.0(eslint@9.9.1(jiti@1.21.6))(typescript@5.5.4)
+      '@typescript-eslint/utils':
         specifier: 8.3.0
         version: 8.3.0(eslint@9.9.1(jiti@1.21.6))(typescript@5.5.4)
       knip:

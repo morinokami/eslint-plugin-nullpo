@@ -17,9 +17,6 @@
 		"test": "vitest",
 		"build": "tsc"
 	},
-	"dependencies": {
-		"@typescript-eslint/utils": "8.3.0"
-	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "0.15.4",
 		"@biomejs/biome": "1.8.3",
@@ -29,6 +26,7 @@
 		"@types/node": "22.5.0",
 		"@typescript-eslint/parser": "8.3.0",
 		"@typescript-eslint/rule-tester": "8.3.0",
+		"@typescript-eslint/utils": "8.3.0",
 		"knip": "5.27.4",
 		"pkg-pr-new": "0.0.22",
 		"publint": "0.2.10",
