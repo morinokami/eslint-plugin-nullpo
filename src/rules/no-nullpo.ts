@@ -15,7 +15,7 @@ export const rule = createRule({
 			},
 		};
 	},
-	name: "ban-nullpo",
+	name: "no-nullpo",
 	meta: {
 		type: "suggestion",
 		docs: {
