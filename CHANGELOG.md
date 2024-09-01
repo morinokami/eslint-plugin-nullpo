@@ -1,5 +1,11 @@
 # eslint-plugin-nullpo
 
+## 0.1.2
+
+### Patch Changes
+
+- [#10](https://github.com/morinokami/eslint-plugin-nullpo/pull/10) [`d9160ac`](https://github.com/morinokami/eslint-plugin-nullpo/commit/d9160ac38d9b2ef34f45afc63884a16869ada95b) Thanks [@morinokami](https://github.com/morinokami)! - Fix rule type in no-nullpo.ts
+
 ## 0.1.1
 
 ### Patch Changes
