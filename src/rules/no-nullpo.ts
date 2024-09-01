@@ -17,7 +17,7 @@ export const rule = createRule({
 	},
 	name: "no-nullpo",
 	meta: {
-		type: "suggestion",
+		type: "problem",
 		docs: {
 			description: "Smack ぬるぽ (nullpo) with a hammer",
 		},
