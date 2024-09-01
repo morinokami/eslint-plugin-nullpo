@@ -1,4 +1,4 @@
-import { rule as banNullpo } from "./rules/ban-nullpo.js";
+import { rule as noNullpo } from "./rules/no-nullpo.js";
 
 const plugin = {
 	configs: {
@@ -7,7 +7,7 @@ const plugin = {
 		},
 	},
 	rules: {
-		"ban-nullpo": banNullpo,
+		"no-nullpo": noNullpo,
 	},
 };
 
@@ -16,7 +16,7 @@ const recommended = {
 		nullpo: plugin,
 	},
 	rules: {
-		"nullpo/ban-nullpo": "error",
+		"nullpo/no-nullpo": "error",
 	},
 };
 
