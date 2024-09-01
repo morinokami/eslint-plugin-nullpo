@@ -1,7 +1,7 @@
 {
 	"name": "eslint-plugin-nullpo",
 	"description": "Smack ぬるぽ (nullpo) with a hammer",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"author": "Shinya Fujino <shf0811@gmail.com> (https://github.com/morinokami)",
 	"license": "MIT",
