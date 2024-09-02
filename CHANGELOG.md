@@ -1,5 +1,11 @@
 # eslint-plugin-nullpo
 
+## 0.1.3
+
+### Patch Changes
+
+- [#12](https://github.com/morinokami/eslint-plugin-nullpo/pull/12) [`ac40e36`](https://github.com/morinokami/eslint-plugin-nullpo/commit/ac40e364e277a19281baa33225d0dbce70f10c7b) Thanks [@morinokami](https://github.com/morinokami)! - plugin.meta
+
 ## 0.1.2
 
 ### Patch Changes
